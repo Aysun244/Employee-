@@ -1,0 +1,15 @@
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\bin\Debug\net8.0\Employee Class task.exe
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\bin\Debug\net8.0\Employee Class task.deps.json
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\bin\Debug\net8.0\Employee Class task.runtimeconfig.json
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\bin\Debug\net8.0\Employee Class task.dll
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\bin\Debug\net8.0\Employee Class task.pdb
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\obj\Debug\net8.0\Employee Class task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\obj\Debug\net8.0\Employee Class task.AssemblyInfoInputs.cache
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\obj\Debug\net8.0\Employee Class task.AssemblyInfo.cs
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\obj\Debug\net8.0\Employee Class task.csproj.CoreCompileInputs.cache
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\obj\Debug\net8.0\Employee Class task.sourcelink.json
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\obj\Debug\net8.0\Employee Class task.dll
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\obj\Debug\net8.0\refint\Employee Class task.dll
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\obj\Debug\net8.0\Employee Class task.pdb
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\obj\Debug\net8.0\Employee Class task.genruntimeconfig.cache
+C:\Users\Aysun\Desktop\Employee-\Employee Class task\Employee Class task\obj\Debug\net8.0\ref\Employee Class task.dll
